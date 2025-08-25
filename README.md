@@ -6,3 +6,4 @@ Cod 2
 change the location of "command": "C:\\Users\\herrm\\Desktop\\Ian Stuff\\StarGaze\\GSC Stuff\\bin\\Debug\\net8.0\\VScodeInjector.exe",
 to where you have to put the exe
 
+if need help to set up pls add me on discord hopeidid i will help anyone
