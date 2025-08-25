@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqYVpSqTn50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\herrm\\source\\repos\\VScodeInjector\\VScodeInjector\\VScodeInjector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\herrm\\.nuget\\packages\\ionic.zlib\\1.9.1.5\\ionic.zlib.1.9.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Ionic.Zlib 1.9.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\herrm\\source\\repos\\VScodeInjector\\VScodeInjector\\VScodeInjector.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\herrm\\source\\repos\\VScodeInjector\\VScodeInjector\\VScodeInjector.csproj",
+      "libraryId": "Ionic.Zlib",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
